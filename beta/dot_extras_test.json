@@ -1,5 +1,5 @@
 {
-    "app_name" : "Dot Papers", 
+    "app_name" : "DotPapers", 
     "app_desc" : "dotOS Wallpapers App",
     "app_image" : "https://github.com/DotOS/services_center_dotapps/raw/dot-n/beta/apps_images/dot_papers.png",
     "app_down" : "https://github.com/DotOS/android_packages_apps_DotPapers/raw/dot-n/prebuilt_dotPapers/DotPapers.apk"
