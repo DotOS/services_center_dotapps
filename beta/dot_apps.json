@@ -6,8 +6,20 @@
     "app_down" : "https://github.com/DotOS/android_packages_apps_DotPapers/raw/dot-n/prebuilt_dotPapers/DotPapers.apk"
     },
     {
-    "app_name" : "Test", 
-    "app_desc" : "Test",
+    "app_name" : "Test 1", 
+    "app_desc" : "Test 1",
+    "app_image" : "https://github.com/DotOS/services_center_dotapps/raw/dot-n/beta/apps_images/dot_papers.png",
+    "app_down" : "https://github.com/DotOS/android_packages_apps_DotPapers/raw/dot-n/prebuilt_dotPapers/DotPapers.apk"
+    },
+    {
+    "app_name" : "Test 2", 
+    "app_desc" : "Test 2",
+    "app_image" : "https://github.com/DotOS/services_center_dotapps/raw/dot-n/beta/apps_images/dot_papers.png",
+    "app_down" : "https://github.com/DotOS/android_packages_apps_DotPapers/raw/dot-n/prebuilt_dotPapers/DotPapers.apk"
+    },
+    {
+    "app_name" : "Test 3", 
+    "app_desc" : "Test 3",
     "app_image" : "https://github.com/DotOS/services_center_dotapps/raw/dot-n/beta/apps_images/dot_papers.png",
     "app_down" : "https://github.com/DotOS/android_packages_apps_DotPapers/raw/dot-n/prebuilt_dotPapers/DotPapers.apk"
     }
